@@ -1,4 +1,4 @@
-# Published Research for Macro Summary
+# Published Research for the Macro Summary
 By Korbinian Gabriel
 
 https://macrosummary.substack.com
