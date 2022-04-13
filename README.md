@@ -1,2 +1,3 @@
-# publicresearch
-Published Research
+# Published Research for Macro Summary
+By Korbinian Gabriel
+
