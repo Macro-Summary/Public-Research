@@ -11,6 +11,6 @@ The study also finds and tests optimal levels of sentiment spread to effectively
 
 The paper is currently in submission at a journal and will be uploaded after evaluation. An article will be released on the Macro Summary Editorial.
 
-https://macrosummary.substack.com
+https://macrosummary.substack.com/p/insights-white-paper-sentiment-as?sd=pf
 
 Hope you enjoy, find it interesting and useful.
